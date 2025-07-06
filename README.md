@@ -21,3 +21,6 @@ Welcome to my daily coding practice repository! This collection includes problem
   - and more...
 
 ---
+
+📅 Consistency Is Key
+I believe in the power of consistency in learning. This repo is part of my journey toward mastering problem-solving in computer science.
