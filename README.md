@@ -1,25 +1,39 @@
+````
+```markdown
+...content here...
+````
+
+`````
+
+But make sure to **exclude** the backticks and the `markdown` tag at the start and end.
+
+---
+
+### ✅ Here's what you should do:
+
+#### **Instead of copying this:**
+````markdown
+```markdown
+# 📚 Daily DSA Practice — LeetCode & GeeksforGeeks
+...
+Happy Coding! 🚀
+`````
+
+````
+
+#### ✅ **You should copy only this (everything in between):**
+
+```
 # 📚 Daily DSA Practice — LeetCode & GeeksforGeeks
 
-Welcome to my daily coding practice repository! This collection includes problems automatically synced from [GeeksforGeeks](https://www.geeksforgeeks.org/) and [LeetCode](https://leetcode.com/) in both **Java** and **Python**. The goal is consistent problem-solving while building a portfolio of my progress in **Data Structures & Algorithms (DSA)**.
+Welcome to my daily coding practice repository! This collection includes problems automatically synced...
+...
+Happy Coding! 🚀
+```
 
-> 💼 This repository also serves as a showcase for recruiters to view my commitment to programming and algorithmic thinking.
-
----
-
-## 🧠 What's Inside
-
-- ✅ Daily problems from GeeksforGeeks and LeetCode
-- 💻 Solutions in **Java** and **Python**
-- 🔄 Automatically updated with browser extensions
-- 📈 Covers a wide range of topics:
-  - Arrays
-  - Strings
-  - Linked Lists
-  - Trees
-  - Recursion
-  - Dynamic Programming
-  - and more...
+👉 You can highlight and copy **from the first `# 📚` all the way to `Happy Coding! 🚀`**, and ignore the triple backticks (` ``` `) completely.
 
 ---
 
-
+Let me know if you want me to provide the raw `.md` file as a download.
+````
