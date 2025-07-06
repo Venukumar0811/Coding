@@ -21,6 +21,25 @@ Welcome to my daily coding practice repository! This collection includes problem
   - and more...
 
 ---
+## 🔥 Contribution Streak
 
-📅 Consistency Is Key
-I believe in the power of consistency in learning. This repo is part of my journey toward mastering problem-solving in computer science.
+[![GitHub Streak](https://streak-stats.demolab.com?user=Venukumar0811&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
+
+---
+
+## 📅 Consistency Is Key
+
+I believe in the power of **consistency** in learning.  
+This repository is a reflection of my daily commitment to solving DSA problems from LeetCode and GeeksforGeeks in Java and Python.
+
+Stay consistent, keep learning, and grow every day! 🚀
+
+---
+
+## 🤝 Connect With Me
+
+📧 Email: [venukumargudidha@gmail.com](mailto:venukumargudidha@gmail.com)  
+📱 Phone: +91 93814 62654  
+💼 LinkedIn: [Venu Kumar Gudidha](https://www.linkedin.com/in/venu-kumar-gudidha-)  
+
+Feel free to reach out for collaboration, internships, or just to talk tech! 😊
