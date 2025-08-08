@@ -12,11 +12,4 @@ class Solution {
         return k;
     }
 
-    public static void printArray(int[] nums, int k) {
-        System.out.print("Output: " + k + ", nums = [");
-        for (int i = 0; i < k; i++) {
-            System.out.print(nums[i] + (i < k - 1 ? "," : ""));
-        }
-        System.out.println("]");
-    }
 }
